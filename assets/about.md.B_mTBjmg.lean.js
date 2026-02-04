@@ -1,0 +1,1 @@
+import{_ as e,o as i,c as l,ae as t}from"./chunks/framework.BD9pLfSD.js";const p=JSON.parse('{"title":"关于我","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),r={name:"about.md"};function o(n,a,u,s,c,h){return i(),l("div",null,[...a[0]||(a[0]=[t("",12)])])}const m=e(r,[["render",o]]);export{p as __pageData,m as default};
