@@ -4,186 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e6256f2-970b-4251-bf5c-be3ecf4acca5" name="更改" comment="update：更新文章内容4.02">
-      <change afterPath="$PROJECT_DIR$/ai-code/HELP.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ai-code/README.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ai-code/ai-code-frontend/README.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ai-code/ai-code-mobile/README.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_concurrent_atomic.md.DU9oZ5zJ.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_concurrent_atomic.md.DU9oZ5zJ.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_concurrent_index.md.zeYffDgb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_concurrent_index.md.zeYffDgb.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_concurrent_threadlocal.md.B7WiuPv2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_concurrent_threadlocal.md.B7WiuPv2.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_eight-legged essay_java-jucday01.md.2VWd5jad.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_eight-legged essay_java-jucday01.md.2VWd5jad.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_eight-legged essay_java-jvmday01.md.B5F6nDFX.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_eight-legged essay_java-jvmday01.md.B5F6nDFX.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_index.md.B0TqJu6z.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_index.md.B0TqJu6z.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_jdk_index.md.rF6nZU_z.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_jdk_index.md.rF6nZU_z.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_jdk_java-26.md.DNnx3Upj.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_jdk_java-26.md.DNnx3Upj.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_jdk_optional-tricks.md.DvFXmvL5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_jdk_optional-tricks.md.DvFXmvL5.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_jdk_string-intern.md.1KFB0ynI.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_jdk_string-intern.md.1KFB0ynI.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_jdk_try-with-resources.md.y0r9V7pN.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_jdk_try-with-resources.md.y0r9V7pN.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_microservice_dubbo.md.SkIVy6yk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_microservice_dubbo.md.SkIVy6yk.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_microservice_index.md.BGcBR6yp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_microservice_index.md.BGcBR6yp.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_mq_index.md.axsD_S0n.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_mq_index.md.axsD_S0n.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_mq_kafka-springboot.md.YYohQ2xC.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_mq_kafka-springboot.md.YYohQ2xC.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_mq_rabbitmq-idempotency.md.CGfpz2nr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_mq_rabbitmq-idempotency.md.CGfpz2nr.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_mq_rabbitmq-producer-reliable.md.DGzC2oIA.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_mq_rabbitmq-producer-reliable.md.DGzC2oIA.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_mq_rabbitmq-retry-design.md.BlS_mWe1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_mq_rabbitmq-retry-design.md.BlS_mWe1.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_mysql_composite-index-design.md.WDLF5g-8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_mysql_composite-index-design.md.WDLF5g-8.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_mysql_deep-pagination.md.BR1ORC5p.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_mysql_deep-pagination.md.BR1ORC5p.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_mysql_index-invalid.md.DzrNWCqP.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_mysql_index-invalid.md.DzrNWCqP.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_mysql_index.md.D3_BjPFy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_mysql_index.md.D3_BjPFy.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_nginx_index.md.C1z6sFgr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_nginx_index.md.C1z6sFgr.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_nginx_nginx.md.CgTkzECb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_nginx_nginx.md.CgTkzECb.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_redis_cache-delete-failure-retry.md.Cu5MUU-k.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_redis_cache-delete-failure-retry.md.Cu5MUU-k.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_redis_delayed-double-delete.md.Q2yTKVvx.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_redis_delayed-double-delete.md.Q2yTKVvx.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_redis_redis-queue.md.DiXQ21qO.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_redis_redis-queue.md.DiXQ21qO.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_spring_auto-configuration.md.uy_wJasr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_spring_auto-configuration.md.uy_wJasr.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_spring_transaction.md.EMq8rnRe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/java_spring_transaction.md.EMq8rnRe.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/面试题格式化后的.md.CRjZYFLM.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/面试题格式化后的.md.CRjZYFLM.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/concurrent/atomic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/concurrent/threadlocal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/eight-legged essay/java-jucday01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/eight-legged essay/java-jvmday01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/jdk/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/jdk/java-26.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/jdk/optional-tricks.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/jdk/string-intern.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/jdk/try-with-resources.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/microservice/dubbo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/microservice/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/mq/kafka-springboot.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/mq/rabbitmq-idempotency.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/mq/rabbitmq-producer-reliable.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/mq/rabbitmq-retry-design.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/mysql/composite-index-design.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/mysql/deep-pagination.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/mysql/index-invalid.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/nginx/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/nginx/nginx.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/redis/cache-delete-failure-retry.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/redis/delayed-double-delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/redis/redis-queue.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/spring/auto-configuration.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/spring/transaction.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面试题格式化后的.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.html" beforeDir="false" afterPath="$PROJECT_DIR$/README.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/javascript/eslint.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/javascript/eslint.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/javascript/event-loop.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/javascript/event-loop.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/javascript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/javascript/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/javascript/this.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/javascript/this.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/react/framework-compare.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react/framework-compare.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/uniapp/uniapp.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/uniapp/uniapp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/vite/vite.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vite/vite.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/vue/file-upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vue/file-upload.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/vue/vue-lifecycle.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vue/vue-lifecycle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/vue/vue-proxy.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vue/vue-proxy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/vue/vue-ts.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vue/vue-ts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/vue/vue3-performance.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vue/vue3-performance.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/vue/why-data-is-function.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vue/why-data-is-function.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/wechat/wechat-pay.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/wechat/wechat-pay.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hashmap.json" beforeDir="false" afterPath="$PROJECT_DIR$/hashmap.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/algorithms/hash-table.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/algorithms/hash-table.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/algorithms/sliding-window.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/algorithms/sliding-window.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/algorithms/two-pointers.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/algorithms/two-pointers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/concurrency/java-core-knowledge.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/concurrency/java-core-knowledge.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/concurrent/concurrent-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/concurrent/concurrent-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/concurrent/concurrent-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/concurrent/concurrent-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/concurrent/concurrent-03.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/concurrent/concurrent-03.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/concurrent/concurrent-04.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/concurrent/concurrent-04.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/concurrent/concurrent-05.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/concurrent/concurrent-05.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/concurrent/concurrent-06.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/concurrent/concurrent-06.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/concurrent/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/concurrent/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/concurrent/thread-pool-detailed.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/concurrent/thread-pool-detailed.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/devops/jekins.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/devops/jekins.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/distributed/redisson.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/distributed/redisson.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/docker/docker-compose.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/docker/docker-compose.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/docker/docker-file.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/docker/docker-file.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/docker/docker-operation.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/docker/docker-operation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/docker/dockerfile-beginner.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/docker/dockerfile-beginner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/docker/dockerfile.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/docker/dockerfile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/docker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/docker/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day01.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day02.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day03.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day03.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day04.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day04.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day05.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day05.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day06.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day06.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day07.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day07.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day08.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day08.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day09.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day09.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day10.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day11.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day12.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day13.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day14.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day15.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/eight-legged essay/java-hot200-day15.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/eight-legged essay/八股文-简历补充.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/eight-legged essay/八股文-简历补充.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/eight-legged essay/八股文day01.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/eight-legged essay/八股文day01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/eight-legged essay/八股文day02.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/eight-legged essay/八股文day02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/eight-legged essay/八股文day03.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/eight-legged essay/八股文day03.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/eight-legged essay/八股文day04.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/eight-legged essay/八股文day04.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/elasticsearch/es-bucket.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/elasticsearch/es-bucket.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/elasticsearch/es-dsl.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/elasticsearch/es-dsl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/elasticsearch/es-term.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/elasticsearch/es-term.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/elasticsearch/es.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/elasticsearch/es.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/mq/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/mq/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/mq/rabbitmq-advanced.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/mq/rabbitmq-advanced.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/mq/rabbitmq.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/mq/rabbitmq.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/mysql/about-join.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/mysql/about-join.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/mysql/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/mysql/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/mysql/lock.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/mysql/lock.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/mysql/mysql-lock.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/mysql/mysql-lock.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/mysql/sharding-sphere.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/mysql/sharding-sphere.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/mysql/spring-neo4j.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/mysql/spring-neo4j.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/mysql/subquery.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/mysql/subquery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/mysql/transaction-isolation.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/mysql/transaction-isolation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/network/tcp-handshake.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/network/tcp-handshake.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/redis/cache-aside.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/redis/cache-aside.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/redis/cache-consistency.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/redis/cache-consistency.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/redis/cache-problems.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/redis/cache-problems.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/redis/distributed-lock.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/redis/distributed-lock.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/tools/arthas.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/tools/arthas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/wechat/wechat-pay.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/wechat/wechat-pay.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/wechat/wechat-subscribe.html" beforeDir="false" afterPath="$PROJECT_DIR$/java/wechat/wechat-subscribe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue/vue-day01.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue-day01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue/vue-day02.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue-day02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue/vue-day03.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue-day03.html" afterDir="false" />
-    </list>
+    <list default="true" id="4e6256f2-970b-4251-bf5c-be3ecf4acca5" name="更改" comment="update：更新文章内容4.02" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -236,7 +57,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773330116920</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update：更新文章内容4.02">
+      <option name="closed" value="true" />
+      <created>1775144568104</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1775144568104</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
