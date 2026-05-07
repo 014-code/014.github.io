@@ -14,22 +14,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
         with:
-          submodules: true
           fetch-depth: 0
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
-        with:
-          hugo-version: "latest"
-
-      - name: Build Web
-        run: hugo -t github-style
-
-      - name: Deploy Web
+      - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           token: ${{ secrets.TOKEN }}
           repository: 014-code.github.io/014.github.io
           branch: main
-          folder: ./public
+          folder: ./
+          clean: false
           commit-message: ${{ github.event.head_commit.message }}
