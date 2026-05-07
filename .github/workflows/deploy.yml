@@ -20,7 +20,7 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           token: ${{ secrets.TOKEN }}
-          repository: 014-code.github.io/014.github.io
+          repository-name: 014-code.github.io/014.github.io
           branch: main
           folder: ./
           clean: false
